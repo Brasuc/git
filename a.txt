@@ -1,1 +1,2 @@
-teste verificar estudo sobre git
+teste  estudo sobre git
+Entendendo HEAD
