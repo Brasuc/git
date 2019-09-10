@@ -1,2 +1,3 @@
 teste  estudo sobre git
 Entendendo HEAD
+Esta linha foi modificada no ramo master.
