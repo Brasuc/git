@@ -1,3 +1,7 @@
 teste  estudo sobre git
 Entendendo HEAD
+<<<<<<< HEAD
 Esta linha foi modificada no ramo master.
+=======
+Esta linha foi modifcada no ramo Teste
+>>>>>>> teste
